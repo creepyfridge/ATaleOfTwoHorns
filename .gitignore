@@ -2,3 +2,5 @@
 ATaleOfTwoHorns/ATaleOfTwoHorns/Library
 ATaleOfTwoHorns/ATaleOfTwoHorns/Temp
 *.sln
+*.suo
+*.csproj
